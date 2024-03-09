@@ -1,2 +1,2 @@
 Test commit.
-Русские символы.
+Ok. Russians symbols are not supported.
